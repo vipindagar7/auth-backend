@@ -29,7 +29,7 @@ This repository contains the backend code for a user authentication system built
    ```bash
    NODE_ENV=development
    PORT=4000
-   DB_URL=mongodb://localhost:27017/chatApp
+   DB_URL=<your_mongodb_url>
    ACCESS_TOKEN_SECRET=<your_access_token_secret>
    REFRESH_TOKEN_SECRET=<your_refresh_token_secret>
    EMAIL=<your_email>
